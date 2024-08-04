@@ -6,4 +6,5 @@ Experiments so far:
 
  - Stylized Facts - [Stylized Facts - The Empirical Properties of Assets](https://www.toniesteves.com/stylized-facts)
  - Statistical Arbitrage and Granger Causality Test
- - Markowitz Portfolio Optimization (Non-linear) 
+ - Markowitz Portfolio Optimization (Non-linear)
+ - Market regime detection using Statistical and ML based approaches
